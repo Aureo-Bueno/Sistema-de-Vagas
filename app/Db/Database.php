@@ -29,7 +29,7 @@ class Database
      * Senha do danco
      * Senha do banco
      */
-    const PASS = 'DvM@7W435';
+    const PASS = '';
 
     /**
      * Nome da tabela a ser manipulado
